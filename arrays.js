@@ -1,2 +1,2 @@
-addElementToBeginningOfArray
-addElementToBeginningOfArray
+function addElementToBeginningOfArray
+destructivelyAddElementToBeginningOfArray
