@@ -1,2 +1,6 @@
-function addElementToBeginningOfArray
-destructivelyAddElementToBeginningOfArray
+function addElementToBeginningOfArray(array[], element) {
+  
+}
+function destructivelyAddElementToBeginningOfArray() {
+  
+}
